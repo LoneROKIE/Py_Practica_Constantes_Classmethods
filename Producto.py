@@ -68,3 +68,9 @@ producto2 = Producto('sopa',1200)
 
 orden = Orden([producto2,producto1])
 print(orden)
+# mas pruebas
+producto3 = Producto('Soap',800)
+producto4 = Producto('Butter',900)
+orden2 = Orden([producto3,producto4])
+print(orden2)
+
